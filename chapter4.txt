@@ -1,0 +1,1 @@
+Outliers are the types of data that is outside of a given region.
